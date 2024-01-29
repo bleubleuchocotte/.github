@@ -18,8 +18,8 @@ At BleuBleu Chocotte, we envision a creative landscape where boundaries between 
    - **[Marine Prost](https://www.malt.fr/profile/marineprost):** Specialized in Graphic Design
    - **[Roxane Lanot](https://www.malt.fr/profile/roxanelanot):** Specialized in Branding 
 
-### 3. Sound Design
-   - **[Théo Martin-Jarrand](link-to-profile):** Short description about expertise and background.
+### 3. Sound Design 
+   - **[Théo Martin-Jarrand](https://www.malt.fr/profile/theomartinjarrand):** 
 
 ## 🛠️ Services
 
