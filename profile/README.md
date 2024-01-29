@@ -10,21 +10,16 @@ At BleuBleu Chocotte, we envision a creative landscape where boundaries between 
 
 ### 1. Web Development
    - **[Thomas Auffroy](https://github.com/thomas-auffroy) :** Specialized in Vue and Nuxt
-   - **[Alexandre Bottollier](https://github.com/alexandre-bottollier):** TODO
+   - **[Alexandre Bottollier](https://github.com/alexandre-bottollier):** Specialized in Front-end development 
 
 ### 2. Design
-TODO
-   - **[Team Member Name 3](link-to-profile):** Short description about expertise and background.
-   - **[Team Member Name 4](link-to-profile):** Short description about expertise and background.
+   - **[Simon Kleman](https://simonkleman.com):** Specialized in Branding & Webdesign
+   - **[Antoine Fouilloux](https://antoinefouilloux.com):** Specialized in UI/UX & Branding
+   - **[Marine Prost](https://www.malt.fr/profile/marineprost):** Specialized in Graphic Design
+   - **[Roxane Lanot](https://www.malt.fr/profile/roxanelanot):** Specialized in Branding 
 
 ### 3. Sound Design
-TODO
-   - **[Team Member Name 5](link-to-profile):** Short description about expertise and background.
-   - **[Team Member Name 6](link-to-profile):** Short description about expertise and background.
-
-### 4. Project Management
-TODO
-   - **[Team Member Name 7](link-to-profile):** Short description about expertise and background.
+   - **[Théo Martin-Jarrand](link-to-profile):** Short description about expertise and background.
 
 ## 🛠️ Services
 
